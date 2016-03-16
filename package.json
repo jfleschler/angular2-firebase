@@ -1,0 +1,19 @@
+{
+  "name": "angular2-firebase",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jon Fleschler",
+    "email": "jon.fleschler@gmail.com"
+  },
+  "homepage": "http://www.r0bit.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfleschler/angular2-firebase.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-protractor": "^2.2.0",
+    "protractor": "^3.1.1"
+  }
+}
